@@ -1,2 +1,0 @@
-# MoreMenu
-cocoapod
